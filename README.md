@@ -59,10 +59,19 @@ plt.scatter(x, y)
 plt.plot(x, y_predicted, color='black')
 plt.show()
 ```
+```
 
 
 ## Output:
-![best fit line](sam.png)
+
+<img width="359" height="66" alt="image" src="https://github.com/user-attachments/assets/79dcb4b6-9079-4bb6-9931-e6550592b34d" />
+
+<img width="474" height="31" alt="image" src="https://github.com/user-attachments/assets/669aa854-a72b-426a-b0fa-0c0eb9c96229" />
+
+<img width="875" height="57" alt="image" src="https://github.com/user-attachments/assets/4b8d9109-17c8-4dc6-8564-e6f22520e68c" />
+
+<img width="900" height="661" alt="image" src="https://github.com/user-attachments/assets/96525d22-1912-4345-8651-4bf9ae8463cd" />
+
 
 
 ## Result:
