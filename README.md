@@ -58,6 +58,7 @@ print(y_predicted)
 plt.scatter(x, y)
 plt.plot(x, y_predicted, color='black')
 plt.show()
+```
 
 
 ## Output:
